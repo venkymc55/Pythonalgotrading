@@ -1,0 +1,55 @@
+*.pyc
+# Windows image files caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config files
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# ========================
+# Operating SYstems Files
+# ========================
+
+# OSX
+# ========================
+
+.DS_Store
+.AppleDouble
+.ISOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fsevented
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+# Sonar file
+.scannerwork
+
+# Project related
+.idea/
